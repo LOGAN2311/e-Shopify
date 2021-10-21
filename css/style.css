@@ -1553,9 +1553,6 @@ th:last-child {
 /* Large Device */
 
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
-    body{
-        width: 100%;
-    }
     .topbar .row{
         --bs-gutter-x: 0;
     }
@@ -1997,9 +1994,9 @@ th:last-child {
     .banner_item{
         margin-bottom: 15px;
     }
-    .promotion{
+    /*.promotion{
         padding: 2rem 1rem 0.1rem 1rem;
-    }
+    }*/
     .promotion-layout{
         gap: 1rem;
         margin: 2rem auto;
