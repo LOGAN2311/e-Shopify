@@ -1975,11 +1975,11 @@ th:last-child {
     .carousel-caption h5 {
         font-size: 17px;
         font-weight: 600;
-        margin-bottom: 60px;
+        padding-bottom: 60px;
     }
     .carousel-caption p{
         font-size: 12px;
-        margin-bottom: 160px;
+        padding-bottom: 160px;
     }
     .carousel-caption p a{
         font-size: 10px;
@@ -2000,6 +2000,9 @@ th:last-child {
     /*.promotion{
         padding: 2rem 1rem 0.1rem 1rem;
     }*/
+    .promotion{
+	margin-top: -100px;
+    }	    
     .promotion-layout{
         gap: 1rem;
         margin: 1rem auto;
