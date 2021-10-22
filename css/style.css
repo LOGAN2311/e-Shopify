@@ -1979,7 +1979,7 @@ th:last-child {
     }
     .carousel-caption p{
         font-size: 12px;
-        padding-bottom: 160px;
+        padding-bottom: 200px;
     }
     .carousel-caption p a{
         font-size: 10px;
@@ -1992,7 +1992,7 @@ th:last-child {
         margin-bottom: 50px;
     }
     .carousel-control-next-icon, .carousel-control-prev-icon{
-	margin-bottom: 100px;
+	margin-bottom: 150px;
 	}	
     .banner_item{
         margin-bottom: 15px;
@@ -2001,7 +2001,7 @@ th:last-child {
         padding: 2rem 1rem 0.1rem 1rem;
     }*/
     .promotion{
-	margin-top: -100px;
+	margin-top: -150px;
     }	    
     .promotion-layout{
         gap: 1rem;
