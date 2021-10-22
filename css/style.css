@@ -1989,7 +1989,7 @@ th:last-child {
         font-size: 12px;
     }
     .carousel-indicators{
-        margin-bottom: 0;
+        margin-bottom: 50px;
     }
     .banner_item{
         margin-bottom: 15px;
@@ -1999,7 +1999,7 @@ th:last-child {
     }*/
     .promotion-layout{
         gap: 1rem;
-        margin: 2rem auto;
+        margin: 1rem auto;
         grid-template-columns: repeat(1, 1fr);
     }
     .promotion-layout img{
