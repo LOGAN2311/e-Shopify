@@ -1962,7 +1962,7 @@ th:last-child {
         height: auto;
     }
     .carousel-caption{
-        bottom: 30px;
+        bottom: 100px;
     }
     .carousel-item{
         width: 100%;
