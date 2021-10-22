@@ -1991,6 +1991,9 @@ th:last-child {
     .carousel-indicators{
         margin-bottom: 50px;
     }
+    .carousel-control-next-icon, .carousel-control-prev-icon{
+	bottom: 100px;
+	}	
     .banner_item{
         margin-bottom: 15px;
     }
