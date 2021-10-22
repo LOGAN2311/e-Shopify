@@ -1806,7 +1806,7 @@ th:last-child {
         flex-wrap: wrap;
     }
     .carousel-caption{
-        bottom: 120px;
+        bottom: 200px;
     }
     .carousel-caption h5{
         font-size: 25px;
